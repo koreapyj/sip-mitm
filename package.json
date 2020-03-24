@@ -1,11 +1,16 @@
 {
-  "name": "moimstone_downgrade",
+  "name": "sip-mitm",
   "version": "1.0.0",
   "description": "",
   "main": "downgrade.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node downgrade.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koreapyj/sip-mitm.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "AGPLv3"
 }
