@@ -12,5 +12,8 @@
     "url": "https://github.com/koreapyj/sip-mitm.git"
   },
   "author": "",
-  "license": "AGPLv3"
+  "license": "AGPLv3",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
 }
